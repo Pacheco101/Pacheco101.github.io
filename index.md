@@ -1,6 +1,6 @@
 # Christian Pacheco
 ### Aspiring Software Engineer & Data Analyst 
-Welcome to my page! I am a **UCSD student** currently learning the ropes of web development. When I'm not coding, I'm usually doing *Photography* or spending time with friends.
+Welcome to my page! I am an **UCSD student** currently learning the ropes of web development. When I'm not coding, I'm usually doing *Photography* or spending time with friends.
 
 Check out my [Profile Photo](page_assets/IMG_7926.jpeg).
 
